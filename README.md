@@ -57,5 +57,31 @@ Explore the key findings, performance metrics, and analytical observations from 
 
 [View Business Insights](./Business_Insights.md)
 
+## Project Structure
+
+```text
+Mobile-Rollout-Monitoring-Dashboard/
+│
+├── Mobile Rollout Monitoring Dashboard.pbix
+├── Mobile Rollout Monitoring Dashboard.pdf
+├── Mobile Rollout Monitoring Dashboard.png
+├── Mobile_Rollout_Data.xlsx
+├── Business_Insights.md
+├── README.md
+└── .gitignore
+```
+
+## Project Files
+
+| File | Description |
+|---|---|
+| [Power BI Dashboard (.pbix)](./Mobile%20Rollout%20Monitoring%20Dashboard.pbix) | Complete interactive Power BI project |
+| [Dashboard PDF](./Mobile%20Rollout%20Monitoring%20Dashboard.pdf) | Dashboard export for viewing |
+| [Dashboard Preview](./Mobile%20Rollout%20Monitoring%20Dashboard.png) | Dashboard screenshot |
+| [Dataset (.xlsx)](./Mobile_Rollout_Data.xlsx) | Source dataset |
+| [Business Insights](./Business_Insights.md) | Key findings and analytical observations |
+| [README](./README.md) | Project documentation |
+| [.gitignore](./.gitignore) | Git ignored files configuration |
+
 ## Purpose
 To demonstrate practical skills in data preparation, data modeling, DAX calculations, and interactive dashboard development using Power BI.
