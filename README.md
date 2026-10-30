@@ -51,5 +51,11 @@ The dataset contains:
 - Dashboard Export (.pdf)
 - Dashboard Screenshot (.png)
 
+## Business Insights
+
+Explore the key findings, performance metrics, and analytical observations from the dashboard.
+
+[View Business Insights](./Business_Insights.md)
+
 ## Purpose
 To demonstrate practical skills in data preparation, data modeling, DAX calculations, and interactive dashboard development using Power BI.
