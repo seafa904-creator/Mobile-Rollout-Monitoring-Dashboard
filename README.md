@@ -1,5 +1,9 @@
 # Mobile Rollout Monitoring Dashboard
 
+## Dashboard Preview
+
+![Mobile Rollout Dashboard](Dashboard.png)
+
 ## Project Overview
 An interactive Power BI dashboard designed to monitor mobile network rollout progress across multiple regions.
 
